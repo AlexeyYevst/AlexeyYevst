@@ -9,5 +9,5 @@
 - 🔭 I’m currently working in QA
 
 Tools used:
-python-original-wordmark.svg
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 -->
