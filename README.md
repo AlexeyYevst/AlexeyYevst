@@ -1,7 +1,7 @@
 # Hello, World! 👋
 ### My name is Alexey. I am a QA Manual and Automation Engineer.
 
-- 4+ years experience in QA and Manual/Automation Testing of Web, API, Cloud Based, Desktop and Mobile Applications
+- 3+ years experience in QA and Manual/Automation Testing of Web, API, Cloud Based, Desktop and Mobile Applications
 - Tools used:
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
