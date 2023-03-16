@@ -1,6 +1,7 @@
 ## Hello, World! 👋
+## My name is Alexey. I am a QA Manual and Automation Engineer.
 
-- 🔭 I’m currently working in QA
+- 4+ years experience in QA and Manual/Automation Testing of Web, API, Cloud Based, Desktop and Mobile Applications
 - 🌱 and improving my JavaScript, Python and SQL skills.
 - Tools used:
 
